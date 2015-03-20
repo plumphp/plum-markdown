@@ -37,7 +37,7 @@ Author
 ------
 
 Plum and PlumMarkdown have been developed by [Florian Eckerstorfer](https://florian.ec)
-([Twitter](https://twitter.com/Florian_) in Vienna, Europe.
+([Twitter](https://twitter.com/Florian_)) in Vienna, Europe.
 
 > Plum is a project of [Cocur](http://cocur.co). You can contact us on Twitter:
 > [**@cocurco**](https://twitter.com/cocurco)
