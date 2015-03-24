@@ -1,7 +1,7 @@
 <img src="https://florian.ec/img/plum/logo.png" alt="Plum">
 ====
 
-> PlumMarkdown is a Markdown converters for Plum. Plum is a data processing pipeline for PHP.
+> PlumMarkdown is a Markdown converter for Plum. Plum is a data processing pipeline for PHP.
 
 [![Build Status](https://travis-ci.org/plumphp/plum-markdown.svg)](https://travis-ci.org/plumphp/plum-markdown)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/plumphp/plum-markdown/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/plumphp/plum-markdown/?branch=master)
