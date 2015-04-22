@@ -30,7 +30,9 @@ information.
 Change Log
 ----------
 
-*No version released yet.*
+### Version 0.1 (22 April 2015)
+
+- Initial release
 
 
 Author
