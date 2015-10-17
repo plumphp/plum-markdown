@@ -1,7 +1,9 @@
-<img src="https://florian.ec/img/plum/logo.png" alt="Plum">
-====
+<h1 align="center">
+    <img src="http://cdn.florian.ec/plum-logo.svg" alt="Plum" width="300">
+</h1>
 
-> PlumMarkdown is a Markdown converter for Plum. Plum is a data processing pipeline for PHP.
+> PlumMarkdown is a [Markdown](http://daringfireball.net/projects/markdown/) converter using
+[PHP Markdown](https://michelf.ca/projects/php-markdown/) for Plum. Plum is a data processing pipeline for PHP.
 
 [![Build Status](https://travis-ci.org/plumphp/plum-markdown.svg)](https://travis-ci.org/plumphp/plum-markdown)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/plumphp/plum-markdown/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/plumphp/plum-markdown/?branch=master)
@@ -24,7 +26,23 @@ Usage
 -----
 
 Please refer to the [Plum documentation](https://github.com/plumphp/plum/blob/master/docs/index.md) for more
-information.
+information about Plum in general.
+
+PlumMarkdown contains `Plum\PlumMarkdown\MarkdownConverter` to convert Markdown into HTML.
+
+### `MarkdownConverter`
+
+The `Plum\PlumMarkdown\MarkdownConverter` converts Markdown into HTML.
+
+```php
+use Plum\PlumMarkdown\MarkdownConverter;
+
+$converter = new MarkdownConverter();
+$converter->convert('*foobar*'); // -> "<p><em>foobar</em></p>
+```
+
+You can pass an instance of `Michelf\MarkdownInterface` to the constructor to set the markdown processor you want to
+use.
 
 
 Change Log
