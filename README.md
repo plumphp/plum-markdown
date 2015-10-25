@@ -6,8 +6,10 @@
 [PHP Markdown](https://michelf.ca/projects/php-markdown/) for Plum. Plum is a data processing pipeline for PHP.
 
 [![Build Status](https://travis-ci.org/plumphp/plum-markdown.svg)](https://travis-ci.org/plumphp/plum-markdown)
+[![Windows Build status](https://ci.appveyor.com/api/projects/status/2n7atnpxl5l2c70k?svg=true)](https://ci.appveyor.com/project/florianeckerstorfer/plum-markdown)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/plumphp/plum-markdown/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/plumphp/plum-markdown/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/plumphp/plum-markdown/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/plumphp/plum-markdown/?branch=master)
+[![StyleCI](https://styleci.io/repos/32591029/shield)](https://styleci.io/repos/32591029)
 
 Developed by [Florian Eckerstorfer](https://florian.ec) in Vienna, Europe.
 
