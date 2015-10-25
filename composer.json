@@ -1,6 +1,7 @@
 {
   "name":        "plumphp/plum-markdown",
   "description": "Markdown converters for Plum. Plum is a data processing pipeline for PHP.",
+  "keywords":    ["plum", "import", "export", "markdown"],
   "authors":     [
     {
       "name":     "Florian Eckerstorfer",
