@@ -16,9 +16,8 @@ use Michelf\MarkdownInterface;
 use Plum\Plum\Converter\ConverterInterface;
 
 /**
- * MarkdownConverter
+ * MarkdownConverter.
  *
- * @package   Plum\PlumMarkdown
  * @author    Florian Eckerstorfer <florian@eckerstorfer.co>
  * @copyright 2015 Florian Eckerstorfer
  */

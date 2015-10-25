@@ -15,9 +15,8 @@ use Mockery;
 use PHPUnit_Framework_TestCase;
 
 /**
- * MarkdownConverterTest
+ * MarkdownConverterTest.
  *
- * @package   Plum\PlumMarkdown
  * @author    Florian Eckerstorfer <florian@eckerstorfer.co>
  * @copyright 2015 Florian Eckerstorfer
  * @group     unit
